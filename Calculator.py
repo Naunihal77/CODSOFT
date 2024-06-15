@@ -1,6 +1,6 @@
-a = int(input("Enter the first number"))
-b = int(input("Enter the second number"))
-c = input("Enter the operand")
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+c = input("Enter the operand: ")
 if c == "+":
     print(a+b)
 elif c == "*":
